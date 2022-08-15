@@ -58,3 +58,10 @@ o So to save time and money, and getting details of task completion.
 #Showing Employee there Task
 
 ![image](https://user-images.githubusercontent.com/67309430/184618656-29442fcd-0ed6-46c8-968e-d0d722f1f882.png)
+
+
+
+#Database Table list
+
+![image](https://user-images.githubusercontent.com/67309430/184619271-ec3e2d50-aacc-4d58-aedc-1f92701f1920.png)
+
